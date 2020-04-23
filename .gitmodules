@@ -1,3 +1,6 @@
 [submodule "iptoasn-webservice"]
 	path = iptoasn-webservice
 	url = git@github.com:akshayknarayan/iptoasn-webservice.git
+[submodule "m-kit"]
+	path = m-kit
+	url = https://github.com/racheesingh/m-kit
